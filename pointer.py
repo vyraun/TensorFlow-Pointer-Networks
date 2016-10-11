@@ -13,9 +13,11 @@
 # limitations under the License.
 # ==============================================================================
 
-"""A pointer-network helper.
+"""
+A pointer-network helper.
 Based on attenton_decoder implementation from TensorFlow
 https://github.com/tensorflow/tensorflow/blob/master/tensorflow/python/ops/rnn.py
+
 """
 
 from __future__ import absolute_import
